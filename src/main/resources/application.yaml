@@ -1,0 +1,5 @@
+spring:
+  webflux:
+    basePath: elastic-demo
+  application:
+    name: elastic-demo
